@@ -1,1 +1,1 @@
-This is the file for shell redirections
+This is the directory for shell redirections
