@@ -1,2 +1,3 @@
 #!/bin/bash
-find "*.js" | xargs rm
+find . -name "*.js" -type f -delete
+
