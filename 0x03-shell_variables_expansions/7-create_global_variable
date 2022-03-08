@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST="School"
+prompt> export BEST="School"
